@@ -55,8 +55,8 @@ Explore some of my most relevant projects, where I apply my knowledge to create 
 A glimpse into my recent GitHub activity, reflecting my commitment to development and collaboration:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanMarioMagura&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefanMarioMagura&theme=dark&hide_border=true" alt="Contribution Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanMarioMagura&show_icons=true&hide_border=true&count_private=true&theme=external_theme&title_color=A020F0&icon_color=FF69B4&text_color=9370DB&bg_color=1F0033" alt="GitHub Stats">
+  <img src="https://github.com/plugins/github-readme-streak-stats/api?user=StefanMarioMagura&theme=dark&hide_border=true&border_radius=0" alt="Contribution Streak">
 </p>
 
 ---
