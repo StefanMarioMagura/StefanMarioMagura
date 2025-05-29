@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Stefan Mario Magura
 
-!http://googleusercontent.com/image_generation_content/8
+![Stefan Mario Magura Profile Banner - AI, Automation, and Python](assets/profile_banner2.png)
 
 ---
 
